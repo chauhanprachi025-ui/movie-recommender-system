@@ -1,5 +1,9 @@
 # 🎬 Movie Recommender System
 
+## 📸 Screenshot
+
+![Movie Recommender System](app.png)
+
 A content-based Movie Recommender System built using Python and Streamlit.
 
 ## 🚀 Live Demo
